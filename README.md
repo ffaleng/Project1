@@ -2,7 +2,7 @@ Math 5750/6880: Mathematics to Data Science
 Project1  
 Fall 2025
 
-### Copy this template repository
+### Copy this template repository.
 
 Click  
 > Use this template → create a new repository 
@@ -10,13 +10,13 @@ Click
 and copy this template repository. Make your new repository is public so that I can see it.  
 
 
-### Open the Jupyter notebook project1.ipynb in Google colab 
+### Open the Jupyter notebook project1.ipynb in Google colab.
 Click the following badge to open the project in Google Colab. 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/math-data-science-course/Project1/blob/main/project1.ipynb)
 
-### Save a copy in GiHub
+### Save a copy in GiHub.
 Immediately 
 > File → Save a copy in GitHub… into your copied repo
 
