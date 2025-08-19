@@ -21,6 +21,6 @@ Immediately
 > File → Save a copy in GitHub… into your copied repo
 
 
-### Do the work. 
+### You're ready to go! 
 You should now be setup to start python programming in Google colab! When you save your changes, make sure that you are creating a commit to your GitHub repo. 
 
