@@ -16,7 +16,7 @@ Click the following badge to open the notebook in Google Colab.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/math-data-science-course/Project1/blob/main/project1.ipynb)
 
-(*Note*) The URL in your README.md file will need to be modified so that it actually works. It should read 
+*Note.* The URL in your README.md file will need to be modified so that it points to your ipynb. It should be:  
 https://colab.research.google.com/github/**mygithub**/**myreponame**/blob/main/project1.ipynb
 
 
